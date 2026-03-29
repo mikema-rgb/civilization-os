@@ -67,7 +67,7 @@ This isn't a survival app. It's a **complete platform to leapfrog from stone age
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/civilization-os.git
+git clone https://github.com/mikema-rgb/civilization-os.git
 cd civilization-os
 
 # Install dependencies
@@ -307,7 +307,7 @@ We welcome contributions from everyone. See [CONTRIBUTING.md](CONTRIBUTING.md) f
 
 ```bash
 # Fork the repo, then:
-git clone https://github.com/YOUR_USERNAME/civilization-os.git
+git clone https://github.com/mikema-rgb/civilization-os.git
 cd civilization-os
 npm install
 npm run dev

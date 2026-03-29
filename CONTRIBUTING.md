@@ -12,7 +12,7 @@ rebuild procedure, or building out the bootable ISO.
 ### 1. Fork and Clone
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/civilization-os.git
+git clone https://github.com/mikema-rgb/civilization-os.git
 cd civilization-os
 npm install
 npm run dev
@@ -20,7 +20,7 @@ npm run dev
 
 ### 2. Pick an Area
 
-Look at the [open issues](https://github.com/YOUR_USERNAME/civilization-os/issues)
+Look at the [open issues](https://github.com/mikema-rgb/civilization-os/issues)
 or choose from the high-impact areas below:
 
 | Area | What's Needed | Label |
@@ -103,7 +103,7 @@ Each module should include:
 
 ## Reporting Issues
 
-Use the [issue templates](https://github.com/YOUR_USERNAME/civilization-os/issues/new/choose)
+Use the [issue templates](https://github.com/mikema-rgb/civilization-os/issues/new/choose)
 for bug reports, feature requests, or knowledge corrections.
 
 For security vulnerabilities, email security@civOS.org instead of opening a
