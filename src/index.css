@@ -1,0 +1,58 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 16px;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  background: #060a0e;
+  color: #c8d6df;
+  font-family: "Courier New", Consolas, "Liberation Mono", monospace;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #060a0e;
+}
+::-webkit-scrollbar-thumb {
+  background: #1a2a38;
+  border-radius: 3px;
+}
+
+/* Selection */
+::selection {
+  background: #f0c04040;
+  color: #fff;
+}
+
+/* Inputs */
+input::placeholder {
+  color: #405060;
+}
+
+input:focus {
+  outline: none;
+}
+
+/* Prevent text selection on UI elements */
+button {
+  user-select: none;
+  -webkit-user-select: none;
+}

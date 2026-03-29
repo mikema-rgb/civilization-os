@@ -1,0 +1,41 @@
+{
+  "name": "civilization-os",
+  "version": "1.0.0-alpha.1",
+  "description": "The open-source, offline-first platform to rebuild civilization after collapse.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "survival",
+    "civilization",
+    "offline",
+    "prepper",
+    "rebuild",
+    "knowledge",
+    "AI",
+    "open-source",
+    "collapse",
+    "resilience"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR_USERNAME/civilization-os.git"
+  },
+  "homepage": "https://github.com/YOUR_USERNAME/civilization-os#readme",
+  "bugs": {
+    "url": "https://github.com/YOUR_USERNAME/civilization-os/issues"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^6.0.0"
+  }
+}
